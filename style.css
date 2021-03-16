@@ -135,7 +135,7 @@ header section:last-child{
     padding: 0 .3rem;
 }
 .grid-items:hover , .grid-items-2:hover{
-    filter: brightness(.8);
+    filter: brightness(80%);
 }
 
 .grid-items , .grid-items-2{
@@ -167,9 +167,6 @@ h2{
     font-size: 1.8rem;
     color: var(--White);
 }
-
-
-
 
 footer{
     padding: 2rem 0;
